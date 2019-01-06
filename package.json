@@ -1,0 +1,24 @@
+{
+  "name": "koa_tutorial",
+  "version": "1.0.0",
+  "description": "Tutorial from this article: https://scotch.io/tutorials/introduction-to-koa-the-future-of-express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunoouellet/koa_tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunoouellet/koa_tutorial/issues"
+  },
+  "homepage": "https://github.com/brunoouellet/koa_tutorial#readme",
+  "dependencies": {
+    "koa": "^2.6.2",
+    "koa-ejs": "^4.2.0",
+    "koa-router": "^7.4.0"
+  }
+}
